@@ -23,15 +23,15 @@ This project builds a movie recommendation system using collaborative filtering 
 
 ### 🚀 What I Learned
 
-* How to diagnose and prevent **overfitting** using regularization
+* How to diagnose and prevent overfitting using regularization
 * The importance of tuning hyperparameters for real performance gains
 * How recommender systems capture patterns in user behavior
 
 ### 🛠 Tech Used
 
 * Python, NumPy, Pandas, Matplotlib
-* **Surprise** library for recommendation models
+* Surprise library for recommendation models
 
 ---
 
-This project strengthened my experience in **machine learning**, **model tuning**, and delivering **data-driven insights** that improve recommendation accuracy.
+This project strengthened my experience in machine learning, model tuning, and delivering data-driven insights that improve recommendation accuracy.
